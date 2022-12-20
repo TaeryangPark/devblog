@@ -9,4 +9,6 @@ categories: development
 
 ## Introduction
 
-Research showing that cognitive training protocols can improve visual attention, inhibition or conflict-related attention, working memory and reasoning occasionally show improvements limited to the trained tasks but rarely to broader abilities
+Research showing that cognitive training protocols can improve visual attention, inhibition or conflict-related attention, working memory and reasoning occasionally show improvements limited to the trained tasks but rarely to broader abilities. 
+
+![image](https://res.cloudinary.com/db7zwrbz0/image/upload/v1671545425/Image20221220230804_zukcyo.png)
