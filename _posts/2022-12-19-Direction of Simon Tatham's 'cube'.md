@@ -7,7 +7,7 @@ categories: development
 
 ## Introduction
 
-This specific game was originally published in a Java web, by Paul Scott. The player will be given a grid of 16 squares, six of which are blue; on one square rests a cube.
+This specific game was originally published in a Java web, by Paul Scott. The player will be given a grid of 16 squares, six of which are blue spotted randomly; on one square rests a cube.
 
 ### How to Play
 
