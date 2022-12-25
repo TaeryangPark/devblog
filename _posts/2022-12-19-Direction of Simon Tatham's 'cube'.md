@@ -16,4 +16,12 @@ This specific game was originally published in a Java web, by Paul Scott. The pl
 
 ### Role
 
-Your role is to use the mouse key to roll the cube through 90 degrees so that you can fill the whole side of the cube with a blue square placed on the floor.
+The Player's role is to use the mouse or arrow keys to roll the cube through 90 degrees so that player can fill the whole side of the cube with a blue square placed on the floor.
+
+### Cube Controls
+
+This game can be played with either the keyboard or the mouse.
+
+- Left-clicking anywhere on the window will move the cube towards the mouse pointer.
+- The arrow keys can also used to roll the cube on its square grid in the four cardinal directions.
+- The four keys surrounding the arrow keys on the numeric keypad (7,9,1,3) can be used for diagonal movement.
