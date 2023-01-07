@@ -13,4 +13,4 @@ The concept of finding difference was introduced since the relationship of remem
 
 ### How can it help
 
-As mentioned above, labeing 2 similar image and finding difference helps human brain to significantly increase observational power and to increase short-term memory.
+Fiding a little details to determine whether it is wrong or right helps human brain to significantly increase observational power and to increase short-term memories. Not only that, remembering something random can help brain to increase concentration.
