@@ -23,4 +23,8 @@ By simply clicking the different single image compared to others can make the pl
 
 ### How to be difficult
 
-There can be various of way to increase difficulty itself. First of all, changing grid of similar images can help increasing the number of images, while making it smaller at the same time.
+There can be various of way to increase difficulty itself.
+
+1. First of all, changing grid of similar images can help increasing the number of images, while making it smaller at the same time.
+![image](https://res.cloudinary.com/db7zwrbz0/image/upload/v1673106558/%EC%BD%94%EB%94%A9_%EA%B8%B0%EB%A6%B0_nd10m2.png)
+2. Secondly, the image can be changed easily. It has a fixed design, therefore the modification and rectification will be handly.
